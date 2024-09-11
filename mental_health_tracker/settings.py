@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "alyssa-layla-mentalhealthtracker2.pbp.cs.ui.ac.id"]
 
-
 # Application definition
 
 INSTALLED_APPS = [
